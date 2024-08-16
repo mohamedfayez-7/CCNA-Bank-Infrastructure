@@ -13,3 +13,4 @@ This project focuses on configuring a network with multiple VLANs, inter-VLAN ro
 - Setting a default route on Router R1.
 
 
+![Udagram Infrastructure](https://github.com/mohamedfayez-7/CCNA-BankInfrastructure/blob/a59e6c8041224d292ce52bd1f7567d8cd3e492ca/Capture.PNG)
